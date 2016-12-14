@@ -1,0 +1,131 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #bcb2b5;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+  font-family: 'Cinzel', serif;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+.lightbox-gallery a{
+  text-decoration: none;
+}
+
+.lightbox-gallery img {
+  border: 1px solid #bbb;
+  padding: 4px;
+}
+
+.lightbox-gallery img:hover{
+  box-shadow: 3px 3px 3px #888;
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
