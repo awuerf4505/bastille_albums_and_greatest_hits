@@ -39,6 +39,43 @@ aside {
   padding: 4px;
 }
 
+.lightbox-gallery .allthisbadblood:hover{
+  box-shadow: 3px 3px 3px #6e6060;
+}
+.lightbox-gallery .badblood:hover{
+  box-shadow: 3px 3px 3px #734f2d;
+}
+.lightbox-gallery .goodgrief:hover{
+  box-shadow: 3px 3px 3px #f2a727;
+}
+.lightbox-gallery .heartache:hover{
+  box-shadow: 3px 3px 3px #64080b;
+}
+.lightbox-gallery .laughter:hover{
+  box-shadow: 3px 3px 3px #63473c;
+}
+.lightbox-gallery .laurapalmer:hover{
+  box-shadow: 3px 3px 3px #8c0830;
+}
+.lightbox-gallery .lostinflame:hover{
+  box-shadow: 3px 3px 3px #92744e;
+}
+.lightbox-gallery .oblivion:hover{
+  box-shadow: 3px 3px 3px #181f18;
+}
+.lightbox-gallery .ofthenight:hover{
+  box-shadow: 3px 3px 3px #af6a89;
+}
+.lightbox-gallery .overjoyed:hover{
+  box-shadow: 3px 3px 3px #898697;
+}
+.lightbox-gallery .pompei:hover{
+  box-shadow: 3px 3px 3px #2c3d4d;
+}
+.lightbox-gallery .vs:hover{
+  box-shadow: 3px 3px 3px #445bdd;
+}
+
 .lightbox-gallery img:hover{
   box-shadow: 3px 3px 3px #888;
 }
